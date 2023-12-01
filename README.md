@@ -1,4 +1,4 @@
-# Glove
+# Gloves
 
 <img width="673" alt="image" src="https://github.com/dotku/glove/assets/1519232/05c5d27f-f6cf-4948-a580-510f5e70d5fc">
 
