@@ -1,5 +1,7 @@
 # Gloves
 
+## Spec
+
 <img width="673" alt="image" src="https://github.com/dotku/glove/assets/1519232/05c5d27f-f6cf-4948-a580-510f5e70d5fc">
 
 <img width="681" alt="image" src="https://github.com/dotku/glove/assets/1519232/3529a6f7-20bb-4b39-8b84-5991df2a43b7">
@@ -19,3 +21,7 @@
 We are selling gloves, including popular Nitrile Glove, Vinyle Glove and Latex Gloves.
 
 Please fill out this form to request pricing: [https://dkwholesale2020.typeform.com/to/D7IwwJyw](https://dkwholesale2020.typeform.com/to/D7IwwJyw)
+
+## Contact
+
+Contact us at [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com) for more detail
